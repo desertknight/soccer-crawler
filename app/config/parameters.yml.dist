@@ -1,0 +1,17 @@
+# This file is a "template" of what your parameters.yml file should look like
+parameters:
+    database_driver:   pdo_mysql
+    database_host:     127.0.0.1
+    database_port:     ~
+    database_name:     soccer
+    database_user:     root
+    database_password: ~
+    mailer_transport:  smtp
+    mailer_host:       smtp.mandrillapp.com
+    mailer_port:       587
+    mailer_user:       zlatko.2create@gmail.com
+    mailer_password:   3uiULCAwdO2bInF7Fg8KGA
+    locale:            bg
+    secret:            ThisTokenIsNotSoSecretChangeIt
+    api_key:           AVKHWZTEYVCSYTXXPDXMIIVGBCQQTIZIZFYYFWFCHWLKKWUKKZ
+    api_url:           http://www.xmlsoccer.com/FootballData.asmx/

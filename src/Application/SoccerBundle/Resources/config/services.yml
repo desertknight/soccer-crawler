@@ -1,0 +1,4 @@
+services:
+    util.xmlsoccer: 
+        class: Application\SoccerBundle\Util\XMLSoccer
+        arguments: [@service_container, @doctrine.orm.entity_manager]

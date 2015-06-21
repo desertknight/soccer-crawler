@@ -1,0 +1,4 @@
+application_soccer:
+    resource: "@ApplicationSoccerBundle/Resources/config/routing.yml"
+    prefix:   /
+
