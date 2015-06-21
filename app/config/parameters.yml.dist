@@ -7,10 +7,10 @@ parameters:
     database_user:     root
     database_password: ~
     mailer_transport:  smtp
-    mailer_host:       smtp.mandrillapp.com
-    mailer_port:       587
-    mailer_user:       zlatko.2create@gmail.com
-    mailer_password:   3uiULCAwdO2bInF7Fg8KGA
+    mailer_host:       127.0.0.1
+    mailer_port:       ~
+    mailer_user:       ~
+    mailer_password:   ~
     locale:            bg
     secret:            ThisTokenIsNotSoSecretChangeIt
     api_key:           AVKHWZTEYVCSYTXXPDXMIIVGBCQQTIZIZFYYFWFCHWLKKWUKKZ
